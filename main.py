@@ -17,6 +17,9 @@ def main():
     print("2. Add Expense")
     print("3. View Transactions")
     print("4. Exit")
+    
+    # New functionality added
+    print("\n💡 Tip: Track your expenses daily for better financial health!")
 
 if __name__ == "__main__":
     main()
