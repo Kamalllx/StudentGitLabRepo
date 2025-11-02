@@ -7,6 +7,10 @@ A simple command-line application to track your personal expenses and income.
 - View transaction history
 - Calculate current balance
 - Categorize expenses
+- Get financial tips and insights
+
+## How to Use
+Run the program: `python main.py`
 
 ## Author
 Student Git Lab Project
