@@ -17,3 +17,8 @@ Student Git Lab Project
 
 ## Version
 1.0.0
+
+## Git Aliases Configured
+- `git st` → git status
+- `git ci` → git commit
+- `git co` → git checkout
